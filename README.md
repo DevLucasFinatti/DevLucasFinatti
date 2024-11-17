@@ -1,9 +1,8 @@
-## Hi there 👋
+## Aloha pessoal, esse é o meu github onde eu compartilho com vocês um pouco dos meus conhecimentos e projetos. entra aí, toma um café, e bora codar 😎👍.  
 
 ![carbon (9)](https://github.com/user-attachments/assets/85afafdb-a858-42d1-91f2-02ff91bf5998)
 
 <!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
