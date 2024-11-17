@@ -1,4 +1,6 @@
-## Aloha pessoal, esse é o meu github onde eu compartilho com vocês um pouco dos meus conhecimentos e projetos. entra aí, toma um café, e bora codar 😎👍.  
+## Aloha pessoal, sejam bem vindos meu github.
+
+Esse é o meu github onde eu compartilho com vocês um pouco dos meus conhecimentos e projetos. entra aí, toma um café, e bora codar 😎👍.  
 
 ![carbon (9)](https://github.com/user-attachments/assets/85afafdb-a858-42d1-91f2-02ff91bf5998)
 
