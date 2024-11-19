@@ -8,11 +8,9 @@ Esse é o meu github onde eu compartilho com vocês um pouco dos meus conhecimen
 # Lista de projetos
 Abaixo estão as descrições dos projetos e links para os repositórios
 
-## SpringEasyMode
+## [SpringEasyMode](https://github.com/DevLucasFinatti/SpringEasyMode)
 
 Grupos de projetos com o objetivo de ensinar não só os fundamentos do Spring, mas conceitos avançados de estrutura de desenvolvimento e organização de projetos. Alguns dos temas são:
-
-((SpringEasyMode)[https://github.com/DevLucasFinatti/SpringEasyMode])
 
 •  SpringSecurity
 •  Design Patterns
