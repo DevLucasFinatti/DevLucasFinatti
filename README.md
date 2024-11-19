@@ -6,6 +6,7 @@ Esse é o meu github onde eu compartilho com vocês um pouco dos meus conhecimen
 
 
 # Lista de projetos
+Abaixo estão as descrições dos projetos e links para os repositórios
 
 ## SpringEasyMode
 
