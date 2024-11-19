@@ -4,6 +4,9 @@ Esse é o meu github onde eu compartilho com vocês um pouco dos meus conhecimen
 
 ![carbon](https://github.com/user-attachments/assets/667c1546-06f8-4efd-bf01-e9640cb45105)
 
+
+# Lista de projetos
+
 ## SpringEasyMode
 
 Grupos de projetos com o objetivo de ensinar não só os fundamentos do Spring, mas conceitos avançados de estrutura de desenvolvimento e organização de projetos. Alguns dos temas são:
