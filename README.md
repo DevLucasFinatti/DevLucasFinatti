@@ -3,28 +3,17 @@
 Welcome to my GitHub! Here, I share my knowledge and projects with the community.  
 Feel free to explore, grab a coffee ☕, and let's code together! 😎👍
 
-![carbon](https://github.com/user-attachments/assets/667c1546-06f8-4efd-bf01-e9640cb45105)
-
 ---
 
-<!-- GitHub Insights Section -->
+## 📊 GitHub Stats
 
-## 📊 GitHub Insights
+<!-- Estatísticas gerais -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevLucasFinatti&show_icons=true&theme=radical)
 
-<p align="center">
-  <!-- Linguagens mais usadas -->
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasFinatti&layout=compact&theme=radical" />
-  
-  <!-- Gráfico de contribuições -->
-  <img width="54%" src="https://github-readme-activity-graph.cyclic.app/graph?username=DevLucasFinatti&theme=github" />
-</p>
+<!-- Línguas mais utilizadas -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasFinatti&layout=compact&theme=radical)
 
 ---
-
-## 🐍 Contribution Snake
-
-<!-- Snake animation -->
-![Snake animation](https://github.com/DevLucasFinatti/DevLucasFinatti/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Projects
 
@@ -55,10 +44,16 @@ A series of projects designed to teach both the basics of Node.js and advanced c
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B00?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
