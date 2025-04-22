@@ -25,28 +25,6 @@
 </picture>
 
 
-## 🚀 Projects
-
-### [SpringEasyMode](https://github.com/DevLucasFinatti/SpringEasyMode)
-
-A collection of projects aimed at teaching not only the fundamentals of Spring but also advanced concepts in development structure and project organization. Topics include:
-
-- Spring Security  
-- Design Patterns  
-- S.O.L.I.D Principles  
-- And more...
-
-### [NodeEasyMode](https://github.com/DevLucasFinatti/NodeEasyMode)
-
-A series of projects designed to teach both the basics of Node.js and advanced concepts in development structure and project organization. Topics include:
-
-- Authentication and Authorization  
-- Design Patterns  
-- S.O.L.I.D Principles  
-- And more...
-
----
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
@@ -68,7 +46,25 @@ A series of projects designed to teach both the basics of Node.js and advanced c
   
 </div>
   
+## 🚀 Projects
 
+### [SpringEasyMode](https://github.com/DevLucasFinatti/SpringEasyMode)
+
+A collection of projects aimed at teaching not only the fundamentals of Spring but also advanced concepts in development structure and project organization. Topics include:
+
+- Spring Security  
+- Design Patterns  
+- S.O.L.I.D Principles  
+- And more...
+
+### [NodeEasyMode](https://github.com/DevLucasFinatti/NodeEasyMode)
+
+A series of projects designed to teach both the basics of Node.js and advanced concepts in development structure and project organization. Topics include:
+
+- Authentication and Authorization  
+- Design Patterns  
+- S.O.L.I.D Principles  
+- And more...
 
 ---
 
