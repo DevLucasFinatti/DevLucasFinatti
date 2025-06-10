@@ -72,4 +72,4 @@ A series of projects designed to teach both the basics of Node.js and advanced c
 
 - 💼 **[LinkedIn](https://www.linkedin.com/in/DevLucasFinatti/)**
 - 👨‍💻 **[GitHub](https://github.com/DevLucasFinatti)**
-- 📧 **Email**: [lucas.finatti@hotmail.com](mailto:lucas.finatti@hotmail.com)
+- 📧 **[lucas.finatti@hotmail.com](mailto:lucas.finatti@hotmail.com)**
